@@ -7,7 +7,7 @@
   NPM_VERSION = "8.19.2"
 
 [context.production]
-  command = "tinacms build && next build"
+  command = "tinacms build && pnpm build"
 
 [context.deploy-preview]
   command = "pnpm build -- -b $DEPLOY_PRIME_URL"
