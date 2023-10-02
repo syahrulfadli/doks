@@ -16,7 +16,7 @@
   command = "npm npm run tinacms build && pnpm build -- -b $DEPLOY_PRIME_URL"
 
 [context.next]
-  command = "pnpm build"
+  command = "npm npm run tinacms build && pnpm build"
 
 [context.next.environment]
   HUGO_ENV = "next"
