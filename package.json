@@ -6,7 +6,7 @@
   "license": "MIT",
   "scripts": {
     "tina-dev": "tinacms dev -c \"npm run dev\"",
-    "tina-build": "tinacms build && next build",
+    "tina-build": "tinacms build && npm run dev",
     "dev": "exec-bin node_modules/.bin/hugo/hugo server --bind=0.0.0.0 --disableFastRender --baseURL=http://localhost --noHTTPCache",
     "dev:drafts": "exec-bin node_modules/.bin/hugo/hugo server --bind=0.0.0.0 --disableFastRender --baseURL=http://localhost --noHTTPCache --buildDrafts",
     "create": "exec-bin node_modules/.bin/hugo/hugo new",
