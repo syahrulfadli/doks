@@ -24,7 +24,7 @@ Berikut kami jabarkan hal-hal apa saja yang kami kumpulkan dari pengguna EZ NOM
 
 ## Komitment Kami Terhadap Privasi Anda
 
-Kami berkomitmen menjaga data-data yang telah anda berikan kepada kami. Dalam upaya tersebut kami melakukan aksi-kasi seperti:
+Kami berkomitmen menjaga data-data yang telah anda berikan kepada kami. Dalam upaya tersebut kami melakukan aksi-aksi seperti:
 
 1. Enkripsi, data sensitif yang anda berikan kami amankan dengan enkripsi,
 2. Pembatasan Akses, akses-akses pengguna kami batasi dalam upaya menjaga celah kemanan tetap rapat salah satunya membatasi durasi session,
