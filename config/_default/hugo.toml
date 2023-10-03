@@ -1,5 +1,5 @@
 title = "Dok. EZ NOM"
-baseurl = "/"
+baseurl = "https://eznom.netlify.app"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true
