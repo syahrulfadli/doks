@@ -4,7 +4,7 @@ import { defineConfig } from "tinacms";
 const branch = process.env.HEAD || process.env.VERCEL_GIT_COMMIT_REF || "main";
 
 export default defineConfig({
-  branch,
+  branch: "main",
   clientId: "4c5f4747-2d58-444d-adc8-91586c3b981c", // Get this from tina.io
   token: "9e5eaa5ea2dec883808d969cfdb65eb267b4b776", // Get this from tina.io
 
