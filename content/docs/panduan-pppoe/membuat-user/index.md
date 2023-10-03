@@ -15,40 +15,38 @@ toc: true
 ---
 
 1. Untuk membuat User PPPoE yang baru anda bisa akses menu (klik ikon <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="currentColor" class="bi bi-list" viewBox="0 0 16 16">
-
-
-
+  <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
 </svg> jika pada handphone) lalu pilih [PPPoE > User](https://noahresource.tech/pppoe/user).
-2\. Klik tombol **BUAT BARU** lalu pilih **User**
-{{\< picture src="buat-baru-user.png" alt="buat-baru-user" >}}
-3\. Selanjutnya anda akan ditampilkan *form* untuk menambahkan user baru dengan kolom-kolom sebagai berikut:
-\- [Harga Jual](#harga-jual)
-\- [User Name](#user-name)
-\- [Password](#password)
-\- [Local Address](#local-address) (Opsional)
-\- [Remote Address](#remote-address) (Opsional)
-\- [Profile](#profile)
-\- [Nama Pelanggan](#nama-pelanggan)
-\- [Nomor Whatsapp](#nomer-whatsapp)
-\- [Lokasi](#lokasi)
-\- [Foto Modem](#foto-modem)
-\- [Foto Rumah](#foto-rumah)
-4\. Silahkan isi setiap kolom seusai data pelanggan.
-5\. Klik **CREATE** untuk membuat user baru. User akan langsung tercatat pada keuangan (menu Revenue) dengan status **Tempo**.
+2. Klik tombol **BUAT BARU** lalu pilih **User**
+{{< picture src="buat-baru-user.png" alt="buat-baru-user" >}}
+3. Selanjutnya anda akan ditampilkan *form* untuk menambahkan user baru dengan kolom-kolom sebagai berikut:
+    - [Harga Jual](#harga-jual)
+    - [User Name](#user-name)
+    - [Password](#password)
+    - [Local Address](#local-address) (Opsional)
+    - [Remote Address](#remote-address) (Opsional)
+    - [Profile](#profile)
+    - [Nama Pelanggan](#nama-pelanggan)
+    - [Nomor Whatsapp](#nomer-whatsapp)
+    - [Lokasi](#lokasi)
+    - [Foto Modem](#foto-modem)
+    - [Foto Rumah](#foto-rumah)
+4. Silahkan isi setiap kolom seusai data pelanggan.
+5. Klik *CREATE* untuk membuat user baru. User akan langsung tercatat pada keuangan (menu Revenue) dengan status **Tempo**.
 
-{{\< callout context="note" title="Isi Data Sebenar-benarnya" icon="info-circle" >}}
+{{< callout context="note" title="Isi Data Sebenar-benarnya" icon="info-circle" >}}
 Isilah data dengan benar, demi untuk kemudahan dalam pengelolaan jaringan secara berkelanjutan.
-{{\< /callout >}}
+{{< /callout >}}
 
 ## Contoh Mengisi Form
 
 ### Mengisi Data User PPPoE
 
-{{\< picture src="contoh-form-pppoe.png" alt="contoh-form-pppoe" >}}
+{{< picture src="contoh-form-pppoe.png" alt="contoh-form-pppoe" >}}
 
 ### Mengisi Data Pelanggan
 
-{{\< picture src="biodata-pelanggan.png" alt="biodata-pelanggan" >}}
+{{< picture src="biodata-pelanggan.png" alt="biodata-pelanggan" >}}
 
 ### Mengisi Lokasi
 
@@ -56,15 +54,15 @@ Untuk mengisi koordinat lokasi anda dapat langsung memilih dari Map atau dari *l
 
 #### Tandai Langsung dari Map
 
-{{\< picture src="lokasi-dari-gps.png" alt="lokasi-dari-gps" >}}
+{{< picture src="lokasi-dari-gps.png" alt="lokasi-dari-gps" >}}
 
 #### Link Google Maps
 
 Metode ini untuk menandai lokasi pelanggan bila tidak sedang berada langsung di
 lokasi rumah pelanggan.
 
-{{\< picture src="lokasi-dari-link-1.png" alt="lokasi-dari-link-1" >}} <br/><br/>
-{{\< picture src="lokasi-dari-link-2.png" alt="lokasi-dari-link-2" >}}
+{{< picture src="lokasi-dari-link-1.png" alt="lokasi-dari-link-1" >}} <br/><br/>
+{{< picture src="lokasi-dari-link-2.png" alt="lokasi-dari-link-2" >}}
 
 ## Deskripsi Kolom
 
