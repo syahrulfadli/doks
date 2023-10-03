@@ -21,4 +21,11 @@ Berikut kami jabarkan hal-hal apa saja yang kami kumpulkan dari pengguna EZ NOM
   Kami menyimpan data dari pengguna yang sumber datanya diproleh secara otomatis dari aktivitas anda dalam penggunaan fitur-fitur di EZ NOM. Seperti data router, data Revenue, Voucher Profile, dan PPPoE Package. Data yang dikirimkan dari router anda tidak kami simpan pada server kami.
 * Penggunaan Cookies\
   Kami menggunakan data Cookies yang dikirimkan oleh server ke browser (anda) untuk mengetahui status autentikasi anda pada EZ NOM.
-*
+
+## Komitment Kami Terhadap Privasi Anda
+
+Kami berkomitmen menjaga data-data yang telah anda berikan kepada kami. Dalam upaya tersebut kami melakukan aksi-kasi seperti:
+
+1. Enkripsi, data sensitif yang anda berikan kami amankan dengan enkripsi,
+2. Pembatasan Akses, akses-akses pengguna kami batasi dalam upaya menjaga celah kemanan tetap rapat salah satunya membatasi durasi session,
+3. Monitoring, kami sebisa mungkin untuk memantau segala aktifitas yang terjadi pada server kami.
