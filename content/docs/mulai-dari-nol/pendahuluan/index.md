@@ -23,7 +23,7 @@ Berikut beberapa prasyarat yang diperlukan sebelum dapat menggunakan EZ NOM.
 2. VPN Remote (gratis untuk *trial* akun dan paket *Complete*).[^1]
 3. *Enable* API port di Mikrotik.
 
-{{< callout context="note" title="SSH Port" icon="info-circle" >}}
+{{< callout context="note" title="Akun Trial 3 Hari" icon="info-circle" >}}
 Untuk memesan akun trial anda dapat menghubungi nomer <a href='https://wa.me/6285258898700'>Whatsapp</a> atau melalui <a href='https://shopee.co.id/noahresource.tech'>Shopee</a>.
 {{< /callout >}}
 
