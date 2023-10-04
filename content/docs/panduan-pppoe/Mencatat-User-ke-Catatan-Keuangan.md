@@ -12,9 +12,9 @@ Jika anda menambahkan user dengan EZ maka secara otomatis user akan tercatat pad
 3. Gulir ke paling bawah halaman lalu klik "Belum tercatat di keuangan".
 
    ![](</assets/belum tercatat di keuangan.png>)
-4. Selanjutnya sesuaikan harga dan data pribadi pelanggan sesuai kolom yang tersedia seperti pada \[Membuat User]\(/docs/panduan-pppoe/membuat-user/).
+4. Selanjutnya sesuaikan harga dan data pribadi pelanggan sesuai kolom yang tersedia seperti pada [Membuat User](/docs/panduan-pppoe/membuat-user/).
 
    ![](</assets/form catat keuangan.png>)
 5. Terakhir klik CATAT.
 
-Maka user akan tercatat pada keuangan dengan status TEMPO. 
+Maka user akan tercatat pada keuangan dengan status TEMPO.
