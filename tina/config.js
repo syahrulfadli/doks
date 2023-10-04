@@ -14,7 +14,7 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "",
+      mediaRoot: "assets",
       publicFolder: "static",
     },
   },
@@ -24,19 +24,107 @@ export default defineConfig({
         name: "docs",
         label: "Docs",
         path: "content/docs",
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+          lastmod: new Date().toISOString(),
+        }),
         fields: [
+          {
+            type: "number",
+            name: "weight",
+            label: "Urutan panduan",
+            required: true,
+          },
           {
             type: "string",
             name: "title",
-            label: "Title",
+            label: "Judul",
             isTitle: true,
             required: true,
           },
           {
+            label: 'Draft',
+            name: 'draft',
+            type: 'boolean',
+          },
+          {
+            label: 'Tanggal',
+            name: 'date',
+            type: 'datetime',
+            ui: {
+              dateFormat: 'd MMMM YYYY',
+              timeFormat: "HH:mm",
+            }
+          },
+          {
+            label: 'Terakhir diperbarui',
+            name: 'lastmod',
+            type: 'datetime',
+            ui: {
+              dateFormat: 'd MMMM YYYY',
+              timeFormat: "HH:mm",
+            },
+          },
+          {
             type: "rich-text",
             name: "body",
-            label: "Body",
+            label: "Konten",
             isBody: true,
+            templates: [
+              {
+                name: 'callout',
+                label: 'Catatan',
+                match: {
+                  name: 'callout',
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [    
+
+                  {
+                    name: 'context',
+                    label: 'Konteks',
+                    type: 'string',
+                    required: true,
+                    options: [
+                      {
+                        value: 'note',
+                        label: 'Catatan'
+                      },
+                      {
+                        value: 'tip',
+                        label: 'Tips'
+                      },
+                      {
+                        value: 'caution',
+                        label: 'Himbauan'
+                      },
+                      {
+                        value: 'danger',
+                        label: 'Peringatan'
+                      }
+                    ]
+                  },
+                  {
+                    name: 'title',
+                    label: 'Judul',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: 'icon',
+                    label: 'Nama Table Icons',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: "children",
+                    label: "Konten",
+                    type: "rich-text"
+                  }              
+                ],
+              }
+            ],
           },
         ],
       },
@@ -44,6 +132,10 @@ export default defineConfig({
         name: "pages",
         label: "Pages",
         path: "content",
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+          lastmod: new Date().toISOString(),
+        }),
         fields: [
           {
             type: "string",
@@ -53,10 +145,88 @@ export default defineConfig({
             required: true,
           },
           {
+            label: 'Draft',
+            name: 'draft',
+            type: 'boolean',
+          },
+          {
+            label: 'Tanggal',
+            name: 'date',
+            type: 'datetime',
+            ui: {
+              dateFormat: 'd MMMM YYYY',
+              timeFormat: "HH:mm",
+            }
+          },
+          {
+            label: 'Terakhir diperbarui',
+            name: 'lastmod',
+            type: 'datetime',
+            ui: {
+              dateFormat: 'd MMMM YYYY',
+              timeFormat: "HH:mm",
+            },
+          },
+          {
             type: "rich-text",
             name: "body",
-            label: "Body",
+            label: "Konten",
             isBody: true,
+            templates: [
+              {
+                name: 'callout',
+                label: 'Catatan',
+                match: {
+                  name: 'callout',
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [    
+
+                  {
+                    name: 'context',
+                    label: 'Konteks',
+                    type: 'string',
+                    required: true,
+                    options: [
+                      {
+                        value: 'note',
+                        label: 'Catatan'
+                      },
+                      {
+                        value: 'tip',
+                        label: 'Tips'
+                      },
+                      {
+                        value: 'caution',
+                        label: 'Himbauan'
+                      },
+                      {
+                        value: 'danger',
+                        label: 'Peringatan'
+                      }
+                    ]
+                  },
+                  {
+                    name: 'title',
+                    label: 'Judul',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: 'icon',
+                    label: 'Nama Table Icons',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: "children",
+                    label: "Konten",
+                    type: "rich-text"
+                  }              
+                ],
+              }
+            ],
           },
         ],
       },
@@ -65,6 +235,10 @@ export default defineConfig({
         name: "blog",
         label: "Blog",
         path: "content/blog",
+        defaultItem: () => ({
+          date: new Date().toISOString(),
+          lastmod: new Date().toISOString(),
+        }),
         fields: [
           {
             type: "string",
@@ -74,10 +248,88 @@ export default defineConfig({
             required: true,
           },
           {
+            label: 'Draft',
+            name: 'draft',
+            type: 'boolean',
+          },
+          {
+            label: 'Tanggal',
+            name: 'date',
+            type: 'datetime',
+            ui: {
+              dateFormat: 'd MMMM YYYY',
+              timeFormat: "HH:mm",
+            },
+          },
+          {
+            label: 'Terakhir diperbarui',
+            name: 'lastmod',
+            type: 'datetime',
+            ui: {
+              dateFormat: 'd MMMM YYYY',
+              timeFormat: "HH:mm",
+            },
+          },
+          {
             type: "rich-text",
             name: "body",
-            label: "Body",
+            label: "Konten",
             isBody: true,
+            templates: [
+              {
+                name: 'callout',
+                label: 'Catatan',
+                match: {
+                  name: 'callout',
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [    
+
+                  {
+                    name: 'context',
+                    label: 'Konteks',
+                    type: 'string',
+                    required: true,
+                    options: [
+                      {
+                        value: 'note',
+                        label: 'Catatan'
+                      },
+                      {
+                        value: 'tip',
+                        label: 'Tips'
+                      },
+                      {
+                        value: 'caution',
+                        label: 'Himbauan'
+                      },
+                      {
+                        value: 'danger',
+                        label: 'Peringatan'
+                      }
+                    ]
+                  },
+                  {
+                    name: 'title',
+                    label: 'Judul',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: 'icon',
+                    label: 'Nama Table Icons',
+                    type: 'string',
+                    required: true,
+                  },
+                  {
+                    name: "children",
+                    label: "Konten",
+                    type: "rich-text"
+                  }              
+                ],
+              }
+            ],
           },
         ],
       },

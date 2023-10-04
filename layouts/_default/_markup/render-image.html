@@ -1,0 +1,6 @@
+<p class="md__image">
+    <div style="width: fit-content; margin: 0 auto">
+        <img style="width: auto; max-width:100%; margin: 0 auto" src="{{ .Destination | safeURL }}" alt="{{ .Text }}" {{ with .Title }} title="{{ . }}"{{ end }} />
+        <small><p style="text-align: center;">{{ .Title }}</p></small>
+    </div>
+  </p>

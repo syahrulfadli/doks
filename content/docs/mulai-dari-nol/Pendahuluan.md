@@ -1,18 +1,10 @@
 ---
-title: "Pendahuluan"
-description: ""
-summary: ""
-date: 2023-10-02T09:43:24+08:00
-lastmod: 2023-10-02T09:43:24+08:00
-draft: false
-images: []
-menu:
-  docs:
-    parent: ""
-    identifier: "pendahuluan-db80902c33759f80baa1e98ee2fe93c5"
 weight: 1
-toc: true
+title: Pendahuluan
+date: 2023-10-04T06:56:22.295Z
+lastmod: 2023-10-04T06:56:22.295Z
 ---
+
 ## Apa itu EZ NOM
 EZ NOM adalah alat untuk membantu user Mikrotik dalam manajemen pengelolaan usaha Hotspot dan WiFi (PPPoE). Fitur-fitur unggulan dari EZ NOM seperti, Live Map Monitoring, pembuatan user PPPoE dengan tambahan informasi pelanggan (nama, kontak, lokasi, foto), Hotspot Voucher Generator, Pencatatan Keuangan, dan Integrasi dengan Telegram Bot.
 
