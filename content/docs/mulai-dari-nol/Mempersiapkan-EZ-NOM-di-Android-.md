@@ -21,6 +21,6 @@ lastmod: 2023-10-20T01:39:00.000Z
 
 ![](</assets/tutor 6.jpg>)
 
-Dengan Ini proses persiapan telah selesai. Silahkan dicoba kembali login dengan membuka EZ NOM pada bookmark yang telah dibuat. Isi form email dan password anda dengan benar lalu tekan login. Jika berhasil login, browser Chrome akan memberikan opsi Save Password/Simpan sandi?\
+Dengan ini proses persiapan telah selesai. Silahkan dicoba kembali login dengan membuka EZ NOM pada bookmark yang telah dibuat. Isi form email dan password anda dengan benar lalu tekan login. Jika berhasil login, browser Chrome akan memberikan opsi Save Password/Simpan sandi?\
 Pilih Simpan. \
 Dengan ini persiapan telah selesai.
