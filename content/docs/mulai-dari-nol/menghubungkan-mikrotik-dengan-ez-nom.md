@@ -1,17 +1,9 @@
 ---
+weight: 3
 title: Menghubungkan Mikrotik Dengan Ez Nom
-description: ''
-summary: ''
+draft: false
 date: 2023-10-04T06:30:24.000Z
 lastmod: 2023-10-04T06:30:24.000Z
-draft: false
-images: []
-menu:
-  docs:
-    parent: ''
-    identifier: menghubungkan-mikrotik-dengan-ez-nom-c653de1ebf0a1bd23153f7ac319dee0a
-weight: 2
-toc: true
 ---
 
 {{< callout context="caution" title="Perlu diperhatikan!" icon="alert-triangle" >}}
