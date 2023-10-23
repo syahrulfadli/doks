@@ -1,5 +1,5 @@
 ---
-title: "Panduan Pppoe"
+title: "Panduan PPPoE"
 description: ""
 summary: ""
 date: 2023-10-02T10:51:46+08:00
