@@ -27,4 +27,6 @@ Untuk membuat voucher di EZ NOM, kita harus membuat \*\*Voucher Profile \*\*terl
    10. Hotspot Server, berfungsi untuk memilih di server mana user voucher dapat login.
    11. Profile, berfungsi untuk memberikan User Profile pada user voucher. Sesuaikan Profile dengan User Profile yang telah anda buat sebelumnya pada dokumentasi [Membuat User Profile Hotspot untuk Voucher](https://eznom.netlify.app/docs/panduan-hotspot/membuat-user-profile-hotspot-untuk-voucher/).
    12. Color, ini berfungsi untuk memberi warna pada voucher yang akan dicetak.
-4.
+4. Berikut contoh mengisi kolom Voucher Profile.
+5. Langkah selanjutnya klik "CREATE" untuk menyimpan Voucher Profile.
+6. Selanjutnya kita akan diarah kembali ke menu Hotspot > Voucher.
