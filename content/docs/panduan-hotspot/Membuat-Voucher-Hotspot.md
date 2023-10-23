@@ -39,4 +39,4 @@ Untuk membuat voucher di EZ NOM, kita harus membuat **Voucher Profile** terlebih
 8. Selesai, maka anda akan diarahkan ke hasil user voucher hotspot yang sudah dibuat seperti gambar di bawah ini.\
    ![](</assets/Hasil voucher.png>)
 
-Tahap selanjutnya adalah Mencetak Voucher Hotspot.
+Tahap selanjutnya adalah** Mencetak Voucher Hotspot**.
