@@ -1,7 +1,7 @@
 ---
 weight: 301
 title: Mengatur Nama dan Logo Hotspot di Voucher
-draft: true
+draft: false
 date: 2023-10-22T16:00:00.000Z
 lastmod: 2023-10-23T01:24:00.000Z
 ---
