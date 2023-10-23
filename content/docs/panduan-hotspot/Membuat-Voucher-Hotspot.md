@@ -12,8 +12,10 @@ Sebelum membuat Voucher harap membaca dokumentasi tentang [Mengatur Nama dan Log
 
 Untuk membuat voucher di EZ NOM, kita harus membuat \*\*Voucher Profile \*\*terlebih dahulu. Berikut langkah-langkah membuatnya.
 
-1. Buka menu **Hotspot** > **Voucher**.
-2. Selanjutnya klik tombol "**BUAT BARU"**.
+1. Buka menu **Hotspot** > **Voucher**.\
+   ![](</assets/menu voucher.png>)
+2. Selanjutnya klik tombol "**BUAT BARU"**.\
+   ![](</assets/voucher buat baru.png>)
 3. Masukan data sesuai kolom yang tersedia dengan rincian sebagai berikut:
    1. Nama, nama voucher akan terlihat pada voucher yang akan dicetak, contoh isi dengan "7 Hari".
    2. Deskripsi (opsional), berikan deskripsi dari voucher yang akan dibuat sebagai informasi tambahan.
@@ -27,6 +29,14 @@ Untuk membuat voucher di EZ NOM, kita harus membuat \*\*Voucher Profile \*\*terl
    10. Hotspot Server, berfungsi untuk memilih di server mana user voucher dapat login.
    11. Profile, berfungsi untuk memberikan User Profile pada user voucher. Sesuaikan Profile dengan User Profile yang telah anda buat sebelumnya pada dokumentasi [Membuat User Profile Hotspot untuk Voucher](https://eznom.netlify.app/docs/panduan-hotspot/membuat-user-profile-hotspot-untuk-voucher/).
    12. Color, ini berfungsi untuk memberi warna pada voucher yang akan dicetak.
-4. Berikut contoh mengisi kolom Voucher Profile.
-5. Langkah selanjutnya klik "CREATE" untuk menyimpan Voucher Profile.
-6. Selanjutnya kita akan diarah kembali ke menu Hotspot > Voucher.
+4. Berikut contoh mengisi kolom Voucher Profile.\
+   ![](</assets/contoh from voucher.png>)
+5. Langkah selanjutnya klik "CREATE" untuk menyimpan Voucher Profile. Selanjutnya kita akan diarah otomatis kembali ke menu Hotspot > Voucher.
+6. Selanjutnya untuk membuat user voucher baru, anda dapat menekan tombol "GENERATE" dari Voucher Profile yang sudah kita buat.\
+   ![](</assets/klik generate.png>)
+7. Masukan jumlah user voucher yang akan dibuat, lalu klik "GENERATE".\
+   ![](</assets/mulai membuat voucher.png>)
+8. Selesai, maka anda akan diarahkan ke hasil user voucher hotspot yang sudah dibuat seperti gambar di bawah ini.\
+   ![](</assets/Hasil voucher.png>)
+
+Tahap selanjutnya adalah Mencetak Voucher Hotspot.
