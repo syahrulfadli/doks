@@ -10,7 +10,7 @@ lastmod: 2023-10-23T02:45:00.000Z
 Sebelum membuat Voucher harap membaca dokumentasi tentang [Mengatur Nama dan Logo Hotspot di Voucher](https://eznom.netlify.app/docs/panduan-hotspot/mengatur-nama-dan-logo-hotspot-di-voucher/) dan [Membuat User Profile Hotspot untuk Voucher](https://eznom.netlify.app/docs/panduan-hotspot/membuat-user-profile-hotspot-untuk-voucher/).
 {{< /callout >}}
 
-Untuk membuat voucher di EZ NOM, kita harus membuat \*\*Voucher Profile \*\*terlebih dahulu. Berikut langkah-langkah membuatnya.
+Untuk membuat voucher di EZ NOM, kita harus membuat **Voucher Profile** terlebih dahulu. Berikut langkah-langkah membuatnya.
 
 1. Buka menu **Hotspot** > **Voucher**.\
    ![](</assets/menu voucher.png>)
@@ -31,10 +31,10 @@ Untuk membuat voucher di EZ NOM, kita harus membuat \*\*Voucher Profile \*\*terl
    12. Color, ini berfungsi untuk memberi warna pada voucher yang akan dicetak.
 4. Berikut contoh mengisi kolom Voucher Profile.\
    ![](</assets/contoh from voucher.png>)
-5. Langkah selanjutnya klik "CREATE" untuk menyimpan Voucher Profile. Selanjutnya kita akan diarah otomatis kembali ke menu Hotspot > Voucher.
-6. Selanjutnya untuk membuat user voucher baru, anda dapat menekan tombol "GENERATE" dari Voucher Profile yang sudah kita buat.\
+5. Langkah selanjutnya klik "**CREATE**" untuk menyimpan Voucher Profile. Selanjutnya kita akan diarah otomatis kembali ke menu **Hotspot** > **Voucher**.
+6. Selanjutnya untuk membuat user voucher baru, anda dapat menekan tombol "**GENERATE**" dari Voucher Profile yang sudah kita buat.\
    ![](</assets/klik generate.png>)
-7. Masukan jumlah user voucher yang akan dibuat, lalu klik "GENERATE".\
+7. Masukan jumlah user voucher yang akan dibuat, lalu klik "**GENERATE**". Pada contoh gambar di bawah ini kita akan membuat 10 user voucher, jika kita memberi kolom Harga Jual dengan nilai 4500, maka jumlah total pemasukan yang akan dicatat di pada menu keuangan senilai Rp.45.000.\
    ![](</assets/mulai membuat voucher.png>)
 8. Selesai, maka anda akan diarahkan ke hasil user voucher hotspot yang sudah dibuat seperti gambar di bawah ini.\
    ![](</assets/Hasil voucher.png>)
