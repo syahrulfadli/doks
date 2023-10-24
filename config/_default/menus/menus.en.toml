@@ -59,11 +59,16 @@
 #   weight = 30
 
 [[footer]]
-  name = "Privacy Policy"
+  name = "Kebijakan Privasi"
   url = "/privacy/"
   weight = 10
 
-# [[footer]]
-#   name = "Terms of Service"
-#   url = "/terms/"
-#   weight = 20
+[[footer]]
+  name = "Aturan Layanan"
+  url = "/terms/"
+  weight = 20
+
+[[footer]]
+  name = "Tentang Kami"
+  url = "/about/"
+  weight = 30
