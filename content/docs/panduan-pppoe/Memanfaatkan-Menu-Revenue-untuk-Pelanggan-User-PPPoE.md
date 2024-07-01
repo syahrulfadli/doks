@@ -5,10 +5,12 @@ date: 2023-10-23T00:22:00.000Z
 lastmod: 2023-10-23T00:22:00.000Z
 ---
 
-Pada Menu Revenue ini anda dapat menggunakan beberapa fitur diantaranya cetak invoice, kirim invoice via WhatsApp, Catatan Pendapatan, dan anda juga dapat memberikan catatan jika diperlukan.\
+Pada **Menu Revenue** ini anda dapat menggunakan beberapa fitur diantaranya cetak invoice, kirim invoice via WhatsApp, Catatan Pendapatan, dan anda juga dapat memberikan catatan jika diperlukan.\
 \
 Pertama-tama, perlu memastikan bahwa pelanggan telah melakukan pembayaran bulanan/lunas atau tempo. Apabila pelanggan pppoe telah membayar klik Lunas. Sebaliknya apabila belum membayar dan telah lewat jatuh tempo Klik Tempo.\
 ![](/assets/R1.PNG)\
-Klik Isolir, jika diperlukan untuk langsung memutuskan akses internet pelanggan. Selanjutnya adalah tahap mengirimkan invoice kepada pelanggan untuk menginformasikan status layanan.\
+Klik Isolir, jika diperlukan untuk langsung memutuskan akses internet pelanggan. Selanjutnya adalah tahap kedua, mengirimkan invoice kepada pelanggan untuk menginformasikan status layanan.\
+\
+![](/assets/ddd.PNG)\
 \
 Untuk mengatur konten/isi dari ***invoice chat*** yang akan dikirimkan ke pelanggan PPPoE dapat diatur di menu ***Setting, Identity.***
