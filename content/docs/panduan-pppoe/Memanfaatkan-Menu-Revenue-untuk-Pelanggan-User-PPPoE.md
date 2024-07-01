@@ -10,7 +10,5 @@ Pada **Menu Revenue** ini anda dapat menggunakan beberapa fitur diantaranya ceta
 Pertama-tama, perlu memastikan bahwa pelanggan telah melakukan pembayaran bulanan/lunas atau tempo. Apabila pelanggan pppoe telah membayar klik Lunas. Sebaliknya apabila belum membayar dan telah lewat jatuh tempo Klik Tempo.\
 ![](/assets/R1.PNG)\
 Klik Isolir, jika diperlukan untuk langsung memutuskan akses internet pelanggan. Selanjutnya adalah tahap kedua, mengirimkan invoice kepada pelanggan untuk menginformasikan status layanan.\
-\
 ![](/assets/ddd.PNG)\
-\
 Untuk mengatur konten/isi dari ***invoice chat*** yang akan dikirimkan ke pelanggan PPPoE dapat diatur di menu ***Setting, Identity.***
