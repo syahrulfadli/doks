@@ -23,4 +23,6 @@ lastmod: 2023-10-20T01:39:00.000Z
 
 Dengan ini proses persiapan telah selesai. Silahkan dicoba kembali login dengan membuka EZ NOM pada bookmark yang telah dibuat. Isi form email dan password anda dengan benar lalu tekan login. Jika berhasil login, browser Chrome akan memberikan opsi Save Password/Simpan sandi?\
 5\. Pilih Simpan. \
-6\. Selesai
+6\. Selesai\
+\
+Anda bisa juga ikuti tutorial berikut [https://www.youtube.com/watch?v=ENEizuEbVXo\&t=3s](https://www.youtube.com/watch?v=ENEizuEbVXo\&t=3s)
