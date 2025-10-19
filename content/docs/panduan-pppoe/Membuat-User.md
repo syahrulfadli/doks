@@ -60,6 +60,8 @@ Selanjunya paste-kan/tempel link ke kolom dan klik cari lokasi
 
 ![](/assets/lokasi-dari-link-2.png)
 
+Lanjutkan pengisian ke form berikutnya dan tekan Simpan.
+
 ## Deskripsi Kolom
 
 ### Harga Jual
