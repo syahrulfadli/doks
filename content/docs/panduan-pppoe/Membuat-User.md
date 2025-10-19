@@ -38,18 +38,22 @@ Isilah data dengan benar, demi untuk kemudahan dalam pengelolaan jaringan secara
 
 ### Mengisi Lokasi
 
-Untuk mengisi koordinat lokasi anda dapat langsung memilih dari Map atau dari *link* Google Maps.
+Untuk mengisi koordinat lokasi, anda dapat langsung menandai lokasi sesuai dengan titik anda berada saat ini atau dari *link* Google Maps.
 
-#### Tandai Langsung dari Map
+Cara menandai lokasi anda saat ini, perhatikan gambar dibawah ini.
+
+* Menandai Langsung dari Map
 
 ![](/assets/lokasi-dari-gps.png)
 
-#### Link Google Maps
+* Menandai dengan Link Google Map
 
 Metode ini untuk menandai lokasi pelanggan bila tidak sedang berada langsung di
 lokasi rumah pelanggan.
 
 ![](/assets/lokasi-dari-link-1.png)
+
+Selanjunya paste-kan/tempel link ke kolom dan klik cari lokasi
 
 ![](/assets/lokasi-dari-link-2.png)
 
@@ -104,8 +108,8 @@ Terdapat dua metode yang dapat anda gunakan untuk menandai lokasi pelanggan. Met
 
 ### Foto Modem
 
-Form ini bermaksud memudahkan dalam proses troubleshooting/pemecahan masalah pada pelanggan ketika admin jaringan mengetahui tipe modem yang digunakan.
+Form ini bermaksud memudahkan dalam proses troubleshooting/pemecahan masalah pada pelanggan ketika admin jaringan mengetahui tipe modem yang digunakan. Form ini tidak harus diisi (opsional).
 
 ### Foto Rumah
 
-Form ini bertujuan untuk memudahkan teknisi dalam mengindentifikasi rumah pelanggan perihal bila dibutuhkan untuk melakukan maintenance atau repair di rumah pelanggan.
+Form ini bertujuan untuk memudahkan teknisi dalam mengindentifikasi rumah pelanggan perihal bila dibutuhkan untuk melakukan maintenance atau repair di rumah pelanggan. Form ini tidak harus diisi (opsional).
