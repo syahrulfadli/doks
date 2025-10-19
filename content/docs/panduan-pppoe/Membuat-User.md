@@ -14,11 +14,14 @@ lastmod: 2023-10-04T06:59:13.620Z
    * [Local Address](#local-address) (Opsional)
    * [Remote Address](#remote-address) (Opsional)
    * [Profile](#profile)
+   * [Tagihan Jatuh Tempo]()
    * [Nama Pelanggan](#nama-pelanggan)
    * [Nomor Whatsapp](#nomer-whatsapp)
+   * [Tanggal Pemasangan]()
    * [Lokasi](#lokasi)
    * [Foto Modem](#foto-modem)
    * [Foto Rumah](#foto-rumah)
+   * [Foto KTP](#)
 4. Silahkan isi setiap kolom seusai data pelanggan.
 5. Klik *CREATE* untuk membuat user baru. User akan langsung tercatat pada keuangan (menu Revenue) dengan status **Tempo**.
 
@@ -84,6 +87,10 @@ Bila anda menggunakan pool di PPPoE Profile maka kosongkan artinya anda mengguna
 
 Profile ini diperuntukkan untuk memilih paket layanan atau kecepatan yang disewa pelanggan.
 
+### Tagihan Jatuh Tempo
+
+Kolom ini diisi agar system ez-nom mengetahui kapan perusahaan/organisasi anda menentukan jatuh tempo pembayaran.
+
 ### Nama Pelanggan
 
 Usahakan anda mendapatkan informasi nama lengkap pelanggan sehingga data ini digunakan untuk *print* INVOICE.
@@ -91,6 +98,10 @@ Usahakan anda mendapatkan informasi nama lengkap pelanggan sehingga data ini dig
 ### Nomer Whatsapp
 
 Pada kolom ini, isikan nomor WA dengan tanpa ada spasi atau tanda apapun; hanya angka dan dengan notasi `08` **bukan** `+62` Misalnya nomor pelanggan adalah `08525887xxxx`. Maka, inputkan pada kolom tersebut `08525887xxxx` **bukan** `+628525887xxxx`.
+
+### Tanggal Pemasangan
+
+Isilah kolom ini dengan sebenar-benarnya, data ini akan berguna di masa akan datang. Kolom tanggal pemasangan merujuk pada waktu kapan pelanggan mulai berlangganan ke perusahaan/organisasi anda.
 
 ### Alamat Detail
 
@@ -113,3 +124,7 @@ Form ini bermaksud memudahkan dalam proses troubleshooting/pemecahan masalah pad
 ### Foto Rumah
 
 Form ini bertujuan untuk memudahkan teknisi dalam mengindentifikasi rumah pelanggan perihal bila dibutuhkan untuk melakukan maintenance atau repair di rumah pelanggan. Form ini tidak harus diisi (opsional).
+
+### Foto KTP
+
+Form ini bertujuan untuk memudahkan teknisi dalam mengindentifikasi identitas pelanggan perihal bila dibutuhkan untuk melakukan maintenance atau repair. Data KTP ini akan dibutuhkan dimasa mendatang.
