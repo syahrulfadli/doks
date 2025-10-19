@@ -5,15 +5,13 @@ date: 2023-10-20T01:39:00.000Z
 lastmod: 2023-10-20T01:39:00.000Z
 ---
 
-1. Buka Google Chrome, dan ketikkan ***noahresourcetech.com/login*** pada kolom pencarian.
-
-![](</assets/tutor 3.jpg>)
+1. Buka Google Chrome, dan ketikkan ***noahresourcetech.com/login*** pada kolom pencarian. Jangan login terlebih dahulu!
 
 2\. Sebelum *Login*, anda perlu menambahkan alamat ini sebagai *bookmark menu* dengan cara; Tekan titik tiga dipojok kanan atas.
 
 ![](</assets/tutor 8.jpg>)
 
-3\. Pilih dan tekan opsi Tambahkan ke Layar Utama
+3\. Pilih dan tekan opsi **Tambahkan ke Layar Utama**
 
 ![](</assets/tutor 7.jpg>)
 
